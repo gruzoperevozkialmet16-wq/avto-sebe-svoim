@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avto-sebe-svoim.vercel.app/sitemap.xml
